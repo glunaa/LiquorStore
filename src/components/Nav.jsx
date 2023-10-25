@@ -5,7 +5,7 @@ function Nav () {
             <div className="navbar-left">Circus liquor</div>
             <div className="navbar-right">
                 <a href="#">Home</a>
-                <a href="#">About</a>
+                <a href="#">SmokeShop</a>
                 <a href="#">Location</a>
              </div>
         </nav>
