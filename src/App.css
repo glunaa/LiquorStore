@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav {
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  top: 0;
+  line-height: 1.1;
+}
+.navbar-left{
+  float: left;
+  padding: 20px;
+  color:#fff;
+  font-size: 20px;
+}
+.navbar-right a{
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+  float:right;
+}
